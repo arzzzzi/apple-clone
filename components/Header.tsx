@@ -1,4 +1,3 @@
-import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { SearchIcon, ShoppingBagIcon, UserIcon } from '@heroicons/react/outline';
